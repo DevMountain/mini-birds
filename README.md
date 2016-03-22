@@ -57,3 +57,7 @@ NOTE: I will refer to two different types of queries here.  If I say request que
 ===========
 
 Congrats!  You've just created your first true CRUD app.  You can now create, read, update, and delete bird sightings, and they will persist, even if you refresh your browser or reboot your server.  Woo!
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
